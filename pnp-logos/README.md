@@ -18,11 +18,13 @@
 ## PnP Reusable Controls
 ![PnPJS](/pnp-logos/png/teal/300w/spfx-controls-teal-300.png)
 
-The following folder contain different format of the mascot.
+All Logos are avaliable:
 
-Folder | Properties | Format
------------- | ------------- | -------------
-[300w](/parker/300w) | 300px width | PNG
-[600w](/parker/600w) | 600px width | PNG
-[1200w](/parker/1200w) | 300px width | PNG
-[1440w](/parker/1440h) | 600px height | PNG
+* [png](/pnp-logos/pnp/)
+  * [Black](/pnp-logos/png/black/)
+  * [Teal](/pnp-logos/png/teal/)
+  * [White](/pnp-logos/png/white/)
+* [Scalable Vector Graphics (SVG)](/pnp-logos/svg/)
+  * [Black](/pnp-logos/png/black/)
+  * [Teal](/pnp-logos/png/teal/)
+  * [White](/pnp-logos/png/white/)
