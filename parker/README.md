@@ -2,7 +2,7 @@
 
 ![Parker Procupine](/parker/parker-showcase.png)
 
-This folder contains different formats:
+This folder contains the following formats:
 
 Folder | Properties | Format
 ------------ | ------------- | -------------
