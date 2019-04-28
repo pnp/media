@@ -2,13 +2,13 @@
 
 Logos and media files used in PnP work
 
-# Mascot - Parker Procupine
+## Mascot - Parker Procupine
 
 ![Parker](/parker/300w/parker.png)
 
 More: [Mascot logos](/parker)
 
-# PnP Project Logos
+## PnP Project Logos
 
 ![generator-spfx](/pnp-logos/png/teal/300w/generator-spfx-teal-300.png)
 ![Office 365 CLI](/pnp-logos/png/teal/300w/office-365-cli-teal-300.png)
@@ -19,13 +19,13 @@ More: [Mascot logos](/parker)
 
 More: [PnP Logos](/pnp-logos)
 
-# PnP Generics
+## PnP Generics
 
 ![PnP PowerShell](/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png)
 
 More: [PnP Logos Generics](/pnp-logos-generics)
 
-# PnP Logos Squared
+## PnP Logos Squared
 
 ![PnP PowerShell](/pnp-logos-squared/teal/300w/pnp-ps-teal-300.png)
 
