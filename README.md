@@ -28,7 +28,9 @@ More: [PnP Logos Generics](/pnp-logos-generics)
 
 ## PnP Logos Squared
 
+![PnP CSOM](/pnp-logos-squared/png/teal/300w/pnp-csom-teal-300.png)
 ![PnP PowerShell](/pnp-logos-squared/png/teal/300w/pnp-ps-teal-300.png)
+
 
 More: [PnP Logos Squared](/pnp-logos-squared)
 
