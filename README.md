@@ -4,7 +4,8 @@ Logos and media files used in PnP work
 
 ## Mascot - Parker Procupine
 
-![Parker](/parker/pnp/300w/parker.png)
+![Parker PnP](/parker/pnp/300w/parker.png)
+![Parker SPFx](/parker/spfx/300w/parker.png)
 
 More: [Mascot logos](/parker)
 
