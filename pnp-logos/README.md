@@ -29,4 +29,4 @@ All Logos are avaliable in the following formats:
   * [Teal](/pnp-logos/svg/teal/)
   * [White](/pnp-logos/svg/white/)
 
-This folder also includes special versions for the logos for the use as [github social images](/pnp-logos/github-social/).
+This folder also includes special versions of the logos for the use as [github social images](/pnp-logos/github-social/).
