@@ -18,15 +18,16 @@
 ## PnP Reusable Controls
 ![PnPJS](/pnp-logos/png/teal/300w/spfx-controls-teal-300.png)
 
+## Variants
 All Logos are avaliable in the following formats:
 
 * [png](/pnp-logos/png/)
   * [Black](/pnp-logos/png/black/)
   * [Teal](/pnp-logos/png/teal/)
   * [White](/pnp-logos/png/white/)
-* [Scalable Vector Graphics (SVG)](/pnp-logos/svg/)
-  * [Black](/pnp-logos/svg/black/)
-  * [Teal](/pnp-logos/svg/teal/)
-  * [White](/pnp-logos/svg/white/)
+* [Scalable Vector Graphics (SVG)](/png-logos/svg/)
+  * [Black](/png-logos/svg/black/)
+  * [Teal](/png-logos/svg/teal/)
+  * [White](/png-logos/svg/white/)
 
 This folder also includes special versions of the logos for the use as [github social images](/pnp-logos/github-social/).
