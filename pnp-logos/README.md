@@ -1,6 +1,6 @@
 # PnP Project logos
 
-## generator-spfx logo
+## PnP generator-spfx
 ![generator-spfx](/pnp-logos/png/teal/300w/generator-spfx-teal-300.png)
 
 ## Office 365 CLI

@@ -1,4 +1,4 @@
-# Suqared PnP Logos
+# Squared PnP Logos
 
 This folder contains squared logo versions:
 
