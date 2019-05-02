@@ -1,6 +1,6 @@
 # PnP Media Pack
 
-Logos and media files used in PnP work
+Logos and media files of Patterns and Practices around Office 365 topics
 
 ## Mascot - Parker Procupine
 
@@ -11,18 +11,19 @@ More: [Mascot logos](/parker)
 
 ## PnP Project Logos
 
-![generator-spfx](/pnp-logos/png/teal/300w/generator-spfx-teal-300.png)
+![pnp/generator-spfx](/pnp-logos/png/teal/300w/generator-spfx-teal-300.png)
 ![Office 365 CLI](/pnp-logos/png/teal/300w/office-365-cli-teal-300.png)
 ![PnP Core Library](/pnp-logos/png/teal/300w/pnp-core-library-teal-300.png)
-![PnP Core Library](/pnp-logos/png/teal/300w/pnp-powershell-teal-300.png)
+![PnP PoweShell](/pnp-logos/png/teal/300w/pnp-powershell-teal-300.png)
 ![PnPJS](/pnp-logos/png/teal/300w/pnpjs-library-teal-300.png)
-![PnPJS](/pnp-logos/png/teal/300w/spfx-controls-teal-300.png)
+![PnP Reusable Controls](/pnp-logos/png/teal/300w/spfx-controls-teal-300.png)
 
 More: [PnP Logos](/pnp-logos)
 
-## PnP Generics
+## PnP Generic Logos
 
-![PnP PowerShell](/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png)
+![PnP Samples](/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png)
+![PnP Training](/pnp-logos-generics/png/teal/300w/pnp-training-teal-300.png)
 
 More: [PnP Logos Generics](/pnp-logos-generics)
 
