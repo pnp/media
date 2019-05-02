@@ -3,7 +3,7 @@
 ![Parker Procupine](/parker/parker-showcase.png)
 
 # Parker - PnP Shirt
-![Parker with SPFx Shirt](/parker/pnp/300w/parker.png)
+![Parker with PnP Shirt](/parker/pnp/300w/parker.png)
 
 Folder | Description | Format
 ------------ | ------------- | -------------

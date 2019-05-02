@@ -3,7 +3,10 @@
 This folder contains generic and not project related PnP logos:
 
 ## PnP Samples
-![PnP PowerShell](/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png)
+![PnP Samples](/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png)
+
+## PnP Training
+![PnP Training](/pnp-logos-generics/png/teal/300w/pnp-training-teal-300.png)
 
 ## Variants
 * [png](/pnp-logos-generics/png/)
