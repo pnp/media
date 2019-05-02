@@ -17,3 +17,4 @@ This folder contains squared logo versions:
   * [Black](/pnp-logos-squared/svg/black/)
   * [Teal](/pnp-logos-squared/svg/teal/)
   * [White](/pnp-logos-squared/svg/white/)
+

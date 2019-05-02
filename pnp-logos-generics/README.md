@@ -17,3 +17,5 @@ This folder contains generic and not project related PnP logos:
   * [Black](/pnp-logos-generics/svg/black/)
   * [Teal](/pnp-logos-generics/svg/teal/)
   * [White](/pnp-logos-generics/svg/white/)
+
+This folder also includes special versions of the logos for the use as [github social images](/pnp-logos-generics/github-social/).
