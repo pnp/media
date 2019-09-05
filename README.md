@@ -2,7 +2,7 @@
 
 Logos and media files of Patterns and Practices around Office 365 topics
 
-## Mascot - Parker Procupine
+## Mascot - Parker Porcupine
 
 ![Parker PnP](/parker/pnp/300w/parker.png)
 ![Parker SPFx](/parker/spfx/300w/parker-spfx.png)
@@ -32,10 +32,13 @@ More: [PnP Logos Generics](/pnp-logos-generics)
 ![PnP CSOM](/pnp-logos-squared/png/teal/300w/pnp-csom-teal-300.png)
 ![PnP PowerShell](/pnp-logos-squared/png/teal/300w/pnp-ps-teal-300.png)
 
-
 More: [PnP Logos Squared](/pnp-logos-squared)
+
+## PnP Logos
+
+![Long](/pnp-logos-sp/png/1x/SharePoint_PnP_logo_fullcolor.png)
+![Short](/pnp-logos-sp/png/1x/SharePoint_PnP_mark_fullcolor.png)
 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
