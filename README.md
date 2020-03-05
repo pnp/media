@@ -6,6 +6,7 @@ Logos and media files of Patterns and Practices around Office 365 topics
 
 ![Parker PnP](/parker/pnp/300w/parker.png)
 ![Parker SPFx](/parker/spfx/300w/parker-spfx.png)
+![Parker Teams](/parker/teams/300w/parker-teams-300.png)
 
 More: [Mascot logos](/parker)
 
