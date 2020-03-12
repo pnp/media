@@ -18,7 +18,7 @@
 
 ### Team Parker
 
-!["Parker Teams"](./wallpapers/parker-teams-wallpaper.png "Parker SPFx")
+!["Parker Teams"](./wallpapers/parker-teams-wallpaper.png "Parker Teams")
 
 ## Others
 
