@@ -6,9 +6,14 @@
 
 ![Microsoft 365 Parker Blue](./wallpapers/parker-ms-wallpaper-blue.png "Microsoft 365 Parker")
 
+[Download](./wallpapers/parker-ms-wallpaper-blue.png)
+
 ### PnP - Parker
 
 !["Parker PnP Teal"](./wallpapers/parker-pnp-wallpaper-teal.png "Parker PnP Teal")
+
+[Download](./wallpapers/parker-pnp-wallpaper-teal.png)
+
 !["Parker PnP Pink"](./wallpapers/parker-pink-wallpaper.png "Parker PnP Pink")
 
 ### SPFx - Parker
