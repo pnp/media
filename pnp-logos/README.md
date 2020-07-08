@@ -3,8 +3,8 @@
 ## PnP generator-spfx
 ![generator-spfx](/pnp-logos/png/teal/300w/generator-spfx-teal-300.png)
 
-## Office 365 CLI
-![Office 365 CLI](/pnp-logos/png/teal/300w/office-365-cli-teal-300.png)
+## Microsoft 365 CLI
+![Microsoft 365 CLI](/pnp-logos/png/teal/300w/pnp-microsoft-365-cli-teal-300.png)
 
 ## PnP Core library
 ![PnP Core Library](/pnp-logos/png/teal/300w/pnp-core-library-teal-300.png)
