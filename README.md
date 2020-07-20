@@ -15,7 +15,7 @@ More: [Mascot logos](/parker)
 ## PnP Project Logos
 
 ![pnp/generator-spfx](/pnp-logos/png/teal/300w/generator-spfx-teal-300.png)
-![Office 365 CLI](/pnp-logos/png/teal/300w/office-365-cli-teal-300.png)
+![Office 365 CLI](/pnp-logos/png/teal/300w/pnp-microsoft-365-cli-teal-300.png)
 ![PnP Core Library](/pnp-logos/png/teal/300w/pnp-core-library-teal-300.png)
 ![PnP PoweShell](/pnp-logos/png/teal/300w/pnp-powershell-teal-300.png)
 ![PnPJS](/pnp-logos/png/teal/300w/pnpjs-library-teal-300.png)
