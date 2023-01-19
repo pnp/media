@@ -3,7 +3,7 @@
 This folder contains squared logo versions:
 
 ## PnP Teams Logo
-<span style="background-color: white; padding: 0.5rem 1rem 0.6rem">![PnP Teams Generator](/pnp-logos-teams/png/ocean/pnp-teams-generator-ocean.png)</span>
+<div style="background-color: white; padding: 0.5rem 1rem 0.6rem">![PnP Teams Generator](/pnp-logos-teams/png/ocean/pnp-teams-generator-ocean.png)</div>
 
 ## Variants
 * [png](/pnp-logos-teams/png/)
