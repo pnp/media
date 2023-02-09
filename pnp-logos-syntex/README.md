@@ -3,7 +3,7 @@
 This folder contains squared logo versions:
 
 ## Syntex
-![PnP Syntex](/pnp-logo-syntex/png/w300/pnp-syntex-300.png)
+![PnP Syntex](/pnp-logos-syntex/png/w300/pnp-syntex-300.png)
 
 ## Variants
 * [png](/pnp-logos-syntex/png/)
